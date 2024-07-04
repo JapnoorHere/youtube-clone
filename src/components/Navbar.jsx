@@ -1,8 +1,7 @@
 import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai';
 import { CiBellOn } from 'react-icons/ci';
-import { FaBell, FaMicrophone, FaYoutube } from 'react-icons/fa';
-import { GiHamburgerMenu } from "react-icons/gi";
+import { FaMicrophone, FaYoutube } from 'react-icons/fa';
 import { RiVideoAddLine } from 'react-icons/ri';
 import { RxHamburgerMenu } from 'react-icons/rx';
 
